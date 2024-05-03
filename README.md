@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Max Richter</h1>
 <h3 align="center">My expertise lies in cryptographic protocols and blockchain technologies. I focus on developing secure cryptocurrency protocols and enhancing existing systems.</h3>
 
+- 🔭 **My skills include creating smart contracts, conducting security audits for cryptocurrency systems, and developing decentralized applications (DApps). Additionally, I actively participate in research projects and standardization organizations aimed at advancing the cryptocurrency industry.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maxhitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maxhitter" height="30" width="40" /></a>
